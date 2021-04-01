@@ -4,11 +4,11 @@ print ("\033[1;32mSilahkan Masukkan Username & Password Anda")
 
 print ("\033[1;32matau silahkan chat Whatshap athoor ")
 7
-print ("\033[1;32mwa081390962290 ")
+print ("\033[1;32m WA 082134566596")
 
-username = 'SAY'      
+username = 'SANTRI'      
 
-password = 'KOJI'
+password = 'CYBER'
 
 
 
